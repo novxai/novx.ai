@@ -1,2 +1,3 @@
 # novx.ai
-Business intelligence reborn
+
+Source code for the public novx.ai website
